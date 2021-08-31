@@ -2,8 +2,8 @@
 - 👀 I’m interested in internship
 - 🌱 I’m currently learning html, css and javascript
 - 📫 To reach me, use here or other social media profile like:
-@iron.berny.3 on Instagram
-linkedin.com/in/iron-berny-216273134
+- @iron.berny.3 on Instagram
+- linkedin.com/in/iron-berny-216273134
 
 
 <!---
