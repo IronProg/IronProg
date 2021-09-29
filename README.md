@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @IronProg
-- 👀 I’m interested in internship
-- 🌱 I’m currently learning html, css and javascript
-- 📫 To reach me, use here or other social media profile like:
+- Hi, I’m Iron Berny
+- I’m interested in internship
+- I’m currently learning html, css and javascript
 - @iron.berny.3 on Instagram
-- linkedin.com/in/iron-berny-216273134
+- www.linkedin.com/in/iron-berny
 
 
 <!---
