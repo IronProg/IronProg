@@ -1,8 +1,9 @@
-- Hi, I’m Iron Berny
-- I’m interested in internship
-- I’m currently learning html, css and javascript
-- @iron.berny.3 on Instagram
-- www.linkedin.com/in/iron-berny
+- Hi, I’m Iron Berny;
+- I’m currently learning PHP and Java, and recently learned C# and Visual Studio Windows Forms;
+- I've made some websites using CSS, HTML and Javascript which you can check in my repositories;
+- @iron.berny.3 on Instagram;
+- www.linkedin.com/in/iron-berny;
+
 
 
 <!---
