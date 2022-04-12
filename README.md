@@ -1,10 +1,19 @@
-- Hi, I’m Iron Berny;
-- I’m currently learning PHP and Java, and recently learned C# and Visual Studio Windows Forms;
-- I've made some websites using CSS, HTML and Javascript which you can check in my repositories;
-- @iron.berny.3 on Instagram;
+# Hi, I’m Iron Berny;
+- I’m currently learning Web Development in FreeCodeCamp.org and Game Development with Unity Engine;
+
+## Programming Skills 
+- C#
+- C++
+- Unity Engine
+- HTML5
+- CSS3
+- JavaScript
+- JQuery
+- ASP.NET and Razor Pages
+
+## Social Profiles
+- https://www.freecodecamp.org/IronProg;
 - www.linkedin.com/in/iron-berny;
-
-
 
 <!---
 IronProg/IronProg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
