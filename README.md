@@ -10,6 +10,9 @@
 - JavaScript
 - JQuery
 - ASP.NET and Razor Pages
+- OracleDB
+- SQL
+- Advanced Object Oriented Programming
 
 ## Social Profiles
 - https://www.freecodecamp.org/IronProg;
